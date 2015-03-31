@@ -3,7 +3,7 @@ AXES home user interface
 
 Client and server-side code for AXES home.
 
-.. image :: https://bitbucket.org/kevinmcguinness/axes-home/raw/master/doc/screenshots/search1-ipad.png
+.. image :: https://raw.githubusercontent.com/kevinmcguinness/axes-home/master/doc/screenshots/search1-ipad.png
 
 This is the front end to the `AXES <http://www.axes-project.eu/>`_ home system.
 This software was developed as part of the `AXES EU FP7 project
