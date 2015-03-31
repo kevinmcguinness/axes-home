@@ -1,0 +1,8 @@
+# Local settings
+settings.cfg
+
+# Server logs
+server.log
+
+# Gunicorn config
+gunicorn.conf
